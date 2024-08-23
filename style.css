@@ -19,8 +19,8 @@
   }
  
 .cabecalho{
-    background-color: #e6a41f;
-    color: #FFFFFF;
+    background-color: #b65fa0;
+    color: #e8b7ec;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -46,7 +46,7 @@ padding: 0 15px;
     width: 20%;
 }
 .escola{
-    background-image:linear-gradient(#fa6210, #D8E9EC);
+    background-image:linear-gradient(#c96ac4, #cfa6d4);
     color: white;
     display: flex;
     justify-content: center;
@@ -81,5 +81,5 @@ padding: 0 15px;
 grid-template-columns: 40% 65% 30%;
 }
 .estudante{
-    background-color: #24d629;
+    background-color: #3f2561;
 }
